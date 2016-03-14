@@ -1,5 +1,5 @@
-# thing
-A Leiningen template for generating thing projects.
+# tim
+A Leiningen template for generating tim projects.
 
 ## Usage
 From Leiningen 2.0 onwards run <code>lein new thing cool-project-name</code>
