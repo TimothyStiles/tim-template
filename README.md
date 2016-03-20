@@ -2,7 +2,7 @@
 A Leiningen template for generating tim projects.
 
 ## Usage
-From Leiningen 2.0 onwards run <code>lein new thing cool-project-name</code>
+From Leiningen 2.0 onwards run <code>lein new tim tims-project-name</code>
 
 ## license
 Copyright 2016 Timothy S. Stiles
